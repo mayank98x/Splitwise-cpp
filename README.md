@@ -6,3 +6,7 @@
 
 
 > For example: say, Anna, Bob, and Charlie share an apartment. Anna owes Bob $20, and Bob owes Charlie $20. Rather than making two separate payments, Splitwise would tell Anna to pay $20 to Charlie directly, thereby minimizing the total number of payments being made. This ensures that people are paid back more quickly and efficiently.
+
+>![Image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/cashFlow.png)
+>
+>![Image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/cashFlow1.png)
